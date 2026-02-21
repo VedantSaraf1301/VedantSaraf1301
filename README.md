@@ -14,7 +14,7 @@
 - Backend Development
 - System Design
 
-
+<a href="https://storyset.com/web">Web illustrations by Storyset</a>
 
 
 ---
@@ -88,11 +88,12 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VedantSaraf1301&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=VedantSaraf1301&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantSaraf1301&layout=compact&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantSaraf1301&layout=compact&theme=tokyonight"/>
 
 </p>
+
 
 ---
 
@@ -115,11 +116,14 @@ Add after creating LeetCode account:
 
 ## 🐍 Contribution Snake
 
-<p align="center">
 
-<img src="https://raw.githubusercontent.com/VedantSaraf1301/VedantSaraf1301/output/snake.svg"/>
+###
 
-</p>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 ---
 
