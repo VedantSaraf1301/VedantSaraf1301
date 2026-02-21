@@ -14,10 +14,14 @@
 - Backend Development
 - System Design
 
-<a href="https://storyset.com/web">Web illustrations by Storyset</a>
-
 
 ---
+<p align="center">
+
+<img src="./Programming-amico.png" width="400"/>
+
+</p>
+
 
 ## 🌐 Connect With Me
 
