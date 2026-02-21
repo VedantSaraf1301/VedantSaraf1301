@@ -18,7 +18,7 @@
 ---
 <p align="center">
 
-<img src="./Programming-amico.png" width="400"/>
+<img src="./Programming-amico.png" width="200"/>
 
 </p>
 
