@@ -30,14 +30,11 @@
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/vedantsaraf" target="blank">
+<a href="https://linkedin.com/in/vedant-saraf-27aa87280" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:vedantsaraf1301@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-</p>
+
 
 ---
 
