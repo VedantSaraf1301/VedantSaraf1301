@@ -108,12 +108,19 @@
 
 ---
 
-## 🧠 LeetCode Stats (Optional but Recommended)
+## 🧠 Coding Profiles
 
-Add after creating LeetCode account:
+<p align="center">
 
+<img src="https://leetcard.jacoblin.cool/Vedant1301?theme=dark&font=Baloo&ext=contest" />
 
----
+</p>
+
+<p align="center">
+
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Saraf_787&theme=dark" />
+
+</p>
 
 ## 🐍 Contribution Snake
 
