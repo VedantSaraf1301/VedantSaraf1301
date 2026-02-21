@@ -85,14 +85,11 @@
 
 
 ## 📊 GitHub Stats
+![Vedant's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VedantSaraf1301&show_icons=true&theme=tokyonight)
 
-<p align="center">
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VedantSaraf1301&layout=compact&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api?username=VedantSaraf1301&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantSaraf1301&layout=compact&theme=tokyonight"/>
-
-</p>
 
 
 ---
@@ -117,13 +114,8 @@ Add after creating LeetCode account:
 ## 🐍 Contribution Snake
 
 
-###
+<img src="https://raw.githubusercontent.com/VedantSaraf1301/VedantSaraf1301/output/github-contribution-grid-snake-rainbow.svg"/>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
 
 ---
 
